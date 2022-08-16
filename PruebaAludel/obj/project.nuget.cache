@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fspYl6ItDOhjN/fPP56HxD3K7A0eKv6BBxHXSIu/y4dUrgG7RZ0VcqrmAvy+qRiZysp/ovIo3ZeNKpiODyYelw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vegav\\OneDrive\\Escritorio\\Trabajos\\PruebaAludel\\PruebaAludel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vegav\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vegav\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaAludel", "PruebaAludel.csproj", "{E4696DF5-76B0-4FF4-9EC5-AA273BAE089B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "..\DataService\DataService.csproj", "{606C1538-B7C0-4C21-832D-B4F1C869CA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4696DF5-76B0-4FF4-9EC5-AA273BAE089B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4696DF5-76B0-4FF4-9EC5-AA273BAE089B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4696DF5-76B0-4FF4-9EC5-AA273BAE089B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4696DF5-76B0-4FF4-9EC5-AA273BAE089B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606C1538-B7C0-4C21-832D-B4F1C869CA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606C1538-B7C0-4C21-832D-B4F1C869CA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606C1538-B7C0-4C21-832D-B4F1C869CA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606C1538-B7C0-4C21-832D-B4F1C869CA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058FB31D-6D09-4154-88E3-4CF3D1F7F980}
+	EndGlobalSection
+EndGlobal
